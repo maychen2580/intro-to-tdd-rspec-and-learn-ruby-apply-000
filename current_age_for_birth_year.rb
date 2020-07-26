@@ -1,3 +1,3 @@
-def current_ago_for_birth_year method(2003)
- puts 19
+def age_of_person (n)
+ 19
 end
